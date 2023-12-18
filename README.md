@@ -3,6 +3,7 @@
 
 
 **OVERVIEW👩‍💻**
+- - - -
 This project displays a list of the user's financial goal, progress towards that goal, and relevant statistics like the total amount saved, the target amount, and the expected date to reach the goal.
 
 ## Features Implemented
@@ -15,7 +16,7 @@ This project displays a list of the user's financial goal, progress towards that
 ##### Duration : 2023.12.13 ~ 2023.12.17
 
 
-***Demo:*** [Demo](https://www.youtube.com/watch?v=Oas0X-P1j1g)
+***Demo:*** [Demo](https://res.cloudinary.com/dvnfhm7q4/video/upload/v1702879987/Recorder_18122023_112829_unu2x5.mp4)
 
 
 ### Steps To Use Run This Project:
