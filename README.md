@@ -1,5 +1,5 @@
 # Financial Goal Tracker
-<img width="400" align='left' src="https://res.cloudinary.com/dvnfhm7q4/image/upload/v1702879647/Screenshot_20231218_112636_r3wsdm.jpg">
+<img width="100" height="100" align='left' src="https://res.cloudinary.com/dvnfhm7q4/image/upload/v1702879647/Screenshot_20231218_112636_r3wsdm.jpg">
 ## Overview
 This project displays a list of the user's financial goal, progress towards that goal, and relevant statistics like the total amount saved, the target amount, and the expected date to reach the goal.
 
