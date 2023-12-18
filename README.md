@@ -3,7 +3,7 @@
 ## Overview
 This project displays a list of the user's financial goal, progress towards that goal, and relevant statistics like the total amount saved, the target amount, and the expected date to reach the goal.
 
-#### Features Implemented
+## Features Implemented
  - Display relevant statistics of a goal like the total amount saved, the target amount, and the expected date to reach the goal using Firebase Firestore to store and retrieve goal data, including the total amount, target, contributions, and expected completion date.
    
  - Display a list or a summary of recent contributions towards the goal, including dates and amounts.
