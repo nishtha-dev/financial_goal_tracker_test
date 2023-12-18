@@ -1,16 +1,40 @@
 # financial_goal_tracker
+- - - -
+## Overview
+This project displays a list of the user's financial goal, progress towards that goal, and relevant statistics like the total amount saved, the target amount, and the expected date to reach the goal.
 
-A new Flutter project.
+- - - -
+#### Features Implemented
+ - Display relevat statistics of a goal like the total amount saved, the target amount, and the expected date to reach the goal using Firebase Firestore to store and retrieve goal data, including the total amount, target, contributions, and expected completion date.
+   
+ - Display a list or a summary of recent contributions towards the goal, including dates and amounts.
 
-## Getting Started
+ - It also provide insights or suggestions on how to meet the goal faster (e.g., save an additional $X per month), calculated based on the current progress.
 
-This project is a starting point for a Flutter application.
+##### Duration : 2023.12.13 ~ 2023.12.17
 
-A few resources to get you started if this is your first Flutter project:
+- - - -
+***Demo:*** [Demo](https://www.youtube.com/watch?v=Oas0X-P1j1g)
+- - - -
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Steps To Use Run This Project:
+##### 1) Install Flutter.
+##### 2) Install Dart.
+##### 3) Clone this repo to desired location.
+##### 4) Run Pub Get and Pub Upgrade.
+##### 5) Run this Project on your android emulator or connect real device to check this out.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Technology of Use 💻
+####  Tools:-
+1) Flutter
+
+#### Google Technologies:-
+1) Firebase
+2) Cloud Firestore
+
+
+#### Languages:-
+1) Dart
+
+
+
