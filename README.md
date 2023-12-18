@@ -3,7 +3,7 @@
 
 
 ## OVERVIEW👩‍💻
-- - - 
+
 This project displays a list of the user's financial goal, progress towards that goal, and relevant statistics like the total amount saved, the target amount, and the expected date to reach the goal.
 
 ## Features Implemented
