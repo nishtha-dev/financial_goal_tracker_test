@@ -13,8 +13,8 @@ This project displays a list of the user's financial goal, progress towards that
 
  - It also provide insights or suggestions on how to meet the goal faster (e.g., save an additional $X per month), calculated based on the current progress.
 
-##### Duration : 2023.12.13 ~ 2023.12.17
 
+##### Duration : 2023.12.13 ~ 2023.12.17
 
 ***Demo:*** [Demo](https://res.cloudinary.com/dvnfhm7q4/video/upload/v1702879987/Recorder_18122023_112829_unu2x5.mp4)
 
