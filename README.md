@@ -2,7 +2,7 @@
 <img width="200" height="400" align='left' src="https://res.cloudinary.com/dvnfhm7q4/image/upload/v1702879647/Screenshot_20231218_112636_r3wsdm.jpg">
 
 
-**OVERVIEW👩‍💻**
+## OVERVIEW👩‍💻
 - - - 
 This project displays a list of the user's financial goal, progress towards that goal, and relevant statistics like the total amount saved, the target amount, and the expected date to reach the goal.
 
